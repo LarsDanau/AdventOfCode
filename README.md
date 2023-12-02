@@ -1,11 +1,26 @@
-<h1 align="center">Advent Of Code</h1>
-<p align="center"><i>My attempts at the different AOC events.</i></p>
-<br>
-<p align="center"><i>Like my attempts? Please check my <a href="larsdanau.dev">Website</a></i></p>
-<br>
+# Advent Of Code
 
-![Image by u/quackbarc](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F836wrdoofp3c1.png%3Fwidth%3D960%26crop%3Dsmart%26auto%3Dwebp%26s%3D221cd69713975ec8d7ea582f094639f857ca1248)
+Welcome to my Advent of Code repository! 🎄🌟 In this collection, I embark on the exciting challenge of solving Advent of Code puzzles using the power of Python. Join me on this coding journey as we unravel daily challenges, honing our problem-solving skills and exploring the beauty of Pythonic solutions. Whether you're a seasoned coder or just starting out, let's tackle these festive puzzles together and celebrate the joy of coding during the holiday season! Feel free to explore the code, share your insights, or contribute your own solutions. Happy coding and happy holidays! 🎅🐍
 
-## AOC Events
-- [2022](https://github.com/LarsDanau/AdventOfCode/tree/main/2022%20%5BINCOMPLETE%5D)
+<div align="center">
+  <h3>
+    <a href="https://adventofcode.com">
+      AoC Website
+    </a>
+    <span> | </span>
+    <a href="https://www.reddit.com/r/adventofcode/">
+      AoC Subreddit
+    </a>
+    <span> | </span>
+    <a href="https://www.larsdanau.dev">
+      My Website
+    </a>
+  </h3>
+</div>
+<p align="center">
+  <img src="https://github.com/LarsDanau/AdventOfCode/assets/71515502/73ea5298-70e9-4450-9a4e-5171db599e38" alt="Image by u/quackbarc" width="500">
+</p>
+
+## Calendar
 - [2023](https://github.com/LarsDanau/AdventOfCode/tree/main/2023%20%5BCURRENT%5D)
+- [2022](https://github.com/LarsDanau/AdventOfCode/tree/main/2022%20%5BINCOMPLETE%5D)
